@@ -13,7 +13,7 @@ h2{
 .player_one{
 	background-color: rgb(255, 255, 255);
 	border-radius: 5px;
-	width: 540px;
+	width: 100%;
 	padding: 10px;
 	border: 1px solid black;
 }
@@ -32,4 +32,5 @@ h2{
 	border: 1px solid black;
 	padding: 100px;
 	display: inline-block;
+	width: 100%
 }

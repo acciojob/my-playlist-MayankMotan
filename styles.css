@@ -24,6 +24,7 @@ h2{
 
 .player_one a{
 	color: black;
+	text-decoration-line: none;
 }
 
 .player_two{
